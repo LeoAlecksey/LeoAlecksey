@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeoAlecksey
+- 👀 I’m interested in *nix aministration, DevOps, NetOps.
+- 🌱 I’m currently learning on DevOps; I write scripts on Python and Bash, I also run a it-specialist blog.
+- 💞️ I’m looking to collaborate on it projects in terms of process automation.
+- 📫 How to reach me E-mail: AlexF-47@yandex.ru; TG: t.me/LeoAlecksey
