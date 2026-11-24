@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in *nix administration, DevOps, Network administration.
+- 👀 I’m interested in Devops & CySec.
 - 🌱 I’m write scripts on Python and Rust, I also run a it-specialist blog.
 - 💞️ I’m looking to collaborate on it projects in terms of process automation.
 - 📫 How to reach me TG: [SysAdmin](t.me/sys_admin_expert_chat)
